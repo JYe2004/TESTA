@@ -1,0 +1,12 @@
+# ninja log v5
+1	409	6837783378312899	CMakeFiles/Lastit.dir/main.c.obj	fb7d64fbde729fc5
+411	749	6837783381727484	Lastit.exe	4d703133e7d08998
+2	73	6837786544065907	CMakeFiles/Lastit.dir/main.c.obj	fb7d64fbde729fc5
+5	80	6837786544130503	CMakeFiles/Lastit.dir/a.c.obj	ab81e4dcd8c5d0ad
+1	97	6837786724023398	CMakeFiles/Lastit.dir/main.c.obj	fb7d64fbde729fc5
+5	97	6837786724034218	CMakeFiles/Lastit.dir/a.c.obj	ab81e4dcd8c5d0ad
+2	62	6837787023342955	CMakeFiles/Lastit.dir/main.c.obj	fb7d64fbde729fc5
+6	62	6837787023327553	CMakeFiles/Lastit.dir/a.c.obj	ab81e4dcd8c5d0ad
+62	133	6837787024024312	Lastit.exe	d4a4a736740ec7d8
+1	56	6837787115833329	CMakeFiles/Lastit.dir/a.c.obj	ab81e4dcd8c5d0ad
+57	125	6837787116489878	Lastit.exe	d4a4a736740ec7d8

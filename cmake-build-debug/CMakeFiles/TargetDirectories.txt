@@ -1,0 +1,3 @@
+D:/gittest1/Lastit/cmake-build-debug/CMakeFiles/Lastit.dir
+D:/gittest1/Lastit/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/gittest1/Lastit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
